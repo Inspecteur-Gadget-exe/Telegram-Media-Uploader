@@ -1,2 +1,8 @@
+# For a channel, should be like : @tryingachannel
+# For a group, should be like : -111222333
+# Add the CHAT_ID just below, KEEP THE QUOTES
 CHAT_ID: ''
+
+# For the Token, sould be like : 1112223334:AJGghc9zmX1n0CV2l0m6Fkm2AhCEGGT3eMP
+# Don't use quotes here
 TOKEN: 
