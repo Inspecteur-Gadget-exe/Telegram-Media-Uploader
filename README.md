@@ -52,6 +52,19 @@ Go to config.yaml and add the chat_id and token.
 
 <hr>
 
+<h2> Before running the script </h2>
+
+```bash
+pip install -r requirements.txt
+```
+
+To install 3 modules : 
+  - requests
+  - pyyaml
+  - pillow
+
+<hr>
+
 <h2> Run the script </h2>
 
 ```bash
@@ -59,5 +72,7 @@ python main.py
 ```
 
 You must specify the full PATH of the folder where the media are located.  
+
+WARNING : Don't use backslash for the PATH, you must have something like Z:/Users/Desktop/This_Folder
 
 I'm not going to explain the script because it's already commented but every 20 files uploaded, script stop for 40 secondes to avoid Time Out. Time Out stop the script... that's why we all want to avoid it.
