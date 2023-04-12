@@ -1,6 +1,15 @@
 # Telegram-Uploader
 Upload Images, Videos, Documents in any Telegram Channel or Group
 
+Images uploaded are not compressed, I did not find a module to send an image in compressed format, they will be sent like this :/  
+If you have an answer, I'll take it !  
+
+![Example](https://user-images.githubusercontent.com/129767887/231501775-652892d1-e99e-4cb3-a4d3-d06c37a154c6.png)
+
+Videos are compressed :)
+
+<hr>
+
 <h2>Clone the repo: </h2>
 
 ```bash
