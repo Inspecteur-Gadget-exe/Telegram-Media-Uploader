@@ -1,4 +1,4 @@
-# Telegram-Uploader
+# Telegram-Media-Uploader
 Upload Images, Videos, Documents in any Telegram Channel or Group
 
 Images uploaded are not compressed, I did not find a module to send an image in compressed format, they will be sent like this :/  
